@@ -1,0 +1,2 @@
+.container{display:flex;align-items:center;justify-content:center;padding:200px}.watch{position:relative}.watch__line-second{top:0;width:4px;height:200px;background-color:#7fffd4;animation:sec 60s infinite}.watch__line-minute,.watch__line-second{position:absolute;left:50px;transform-origin:bottom left}.watch__line-minute{top:100px;width:6px;height:100px;background-color:#f0f;animation:sec 3600s infinite}@keyframes sec{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.d55cb963.css.map */
